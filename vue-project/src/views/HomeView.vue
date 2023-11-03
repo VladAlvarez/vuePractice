@@ -59,7 +59,7 @@ const previewCity = (searchResult) => {
 };
 
 const mapBoxAPIKey =
-  "pk.eyJ1IjoidmFoaXR1IiwiYSI6ImNsbWZmc2s2MDBhanUzcXRqcG5ibjFsbXEifQ.kPTLzShPlBI-0hfsjt6Y9w";
+  //"reinsert mapbox api";
 const searchQuery = ref("");
 const queryTimeout = ref(null);
 const mapboxSearchResults = ref(null);
